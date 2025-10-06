@@ -27,7 +27,6 @@ By the end of this workshop you will:
 * Workflow: submit → run → get results
 * Hands-on: first circuit on simulator
 
-**Materials**: PowerPoint + Jupyter Notebook
 
 
 
@@ -37,8 +36,6 @@ By the end of this workshop you will:
 * Building and visualizing circuits in Python
 * Hands-on: Bell state on simulator
 
-**Materials**: PowerPoint + Jupyter Notebook
-
 
 
 ### Day 3 – Running on Real Quantum Hardware
@@ -47,8 +44,6 @@ By the end of this workshop you will:
 * Job queueing, shots, noise, errors
 * Hands-on: Grover’s algorithm on real backend
 
-**Materials**: PowerPoint + Jupyter Notebook
-
 
 ### Day 4 – Integrating Results into Programs
 
@@ -56,7 +51,7 @@ By the end of this workshop you will:
 * Using results in Python code (optimization, ML)
 * Mini-projects: hybrid workflows with Qiskit
 
-**Materials**: PowerPoint + Jupyter Notebook
+
 
 
 ## Requirements
@@ -94,5 +89,6 @@ If you have any questions, suggestions, or feedback regarding this project, I wo
 - **Email**: [Email](mailto:shitaferas195@gmail.com)
 - **linkedIn**: [@Feras Shita](https://linkedin.com/in/feras-shita)
 - **GitHub**: [ferasshita](https://github.com/ferasshita)
+
 
 Feel free to reach out with any inquiries or discussions related to the project. I will do my best to respond in a timely manner.
